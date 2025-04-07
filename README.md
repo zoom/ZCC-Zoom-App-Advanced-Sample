@@ -1,5 +1,6 @@
 # Advanced Zoom Apps Sample
 
+**This is an application built using the advanced zoom app sample application with Zoom Contact Center integrated. For ZCC integration, look mainly to the `engagement.js` file.
 Advanced Sample covers most complex scenarios that might be needed in apps.
 
 App has reference implementation for:
