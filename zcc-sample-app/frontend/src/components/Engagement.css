@@ -1,0 +1,20 @@
+.input-types {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.input-types .input-pair {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+}
+
+.input-types input[type="checkbox"],
+.input-types input[type="radio"] {
+  margin: 0;
+}
+
+.input-types label {
+  margin: 0;
+}
